@@ -18,8 +18,8 @@
 - [x] Pulo  
 - [x] Cair e levantar  
 - [x] Animações de movimento básicas  
-- [ ] Animação de andar para os lados e para trás  
-- [ ] Animação de pular e cair (refinada)  
+- [x] Animação de andar para os lados e para trás  
+- [x] Animação de pular e cair (refinada)  
 - [ ] Opção de trocar roupa do jogador  
 
 ### Sistema de Jogo
